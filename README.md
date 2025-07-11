@@ -22,7 +22,7 @@ This is my **first Power BI project**: an interactive dashboard built to track a
 - `dashboard_screenshot.png` – Dashboard preview image
 
 ## Preview
-![Dashboard Screenshot](./dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## How to Use
 1. Clone or download this repository.
